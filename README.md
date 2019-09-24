@@ -9,7 +9,7 @@ On your build.gradle, add the library to the dependencies section:
 ```gradle
 dependencies {
   // ...
-  implementation 'com.kimjio.handwritingfix:1.0'
+  implementation 'com.kimjio:handwritingfix:1.0'
   // ...
 }
 ```
